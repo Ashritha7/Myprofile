@@ -1,3 +1,3 @@
 # Myprofile
 
-https://ashritha7.github.io/Myprofile/ for a quick review of my project.
+https://ashritha7.github.io/Myprofile/  tap here for a quick review of my project.
